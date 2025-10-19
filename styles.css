@@ -1,0 +1,21 @@
+.header-nav {
+    background-color: blue;
+    color: antiquewhite;
+}
+.header-link {
+    color: antiquewhite;
+}
+li::marker {
+    color: antiquewhite;
+}
+.main-content {
+    background-color:yellow
+}
+.section-color {
+    color: antiquewhite;
+    background-color: red;
+}
+.site-footer {
+    color: antiquewhite;
+    background-color: blue;
+}
