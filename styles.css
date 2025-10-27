@@ -1,21 +1,19 @@
-.header-nav {
-    background-color: blue;
-    color: antiquewhite;
+body {
+    margin:0;
 }
-.header-link {
-    color: antiquewhite;
+.wrapper {
+    max-width: 600px;
+    margin:auto;
 }
-li::marker {
-    color: antiquewhite;
+.header {
+    background-color: palevioletred;
+    padding:40px;
 }
-.main-content {
-    background-color:yellow
+.main {
+    background-color: thistle;
+    padding:40px;
 }
-.section-color {
-    color: antiquewhite;
-    background-color: red;
-}
-.site-footer {
-    color: antiquewhite;
-    background-color: blue;
+.footer{ 
+    background-color: pink;
+    padding: 40px;
 }
